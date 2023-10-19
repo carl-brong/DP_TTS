@@ -1,4 +1,6 @@
-#pragma once
+#ifndef MALE_VOICE_H
+#define MALE_VOICE_H
+
 #include <iostream>
 #include <sapi.h>
 #include<iostream>
@@ -15,3 +17,5 @@ public:
 private:
 
 };
+
+#endif
