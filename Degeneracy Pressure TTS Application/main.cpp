@@ -1,6 +1,7 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-	std::cout << "Config Test..." << std::endl;
+	cout << "Config Test..." << endl;
 	return 0;
 }
